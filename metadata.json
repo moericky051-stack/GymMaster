@@ -1,0 +1,6 @@
+{
+  "name": "GymMaster Exercise Guide",
+  "description": "An interactive gym workout education app and exercise encyclopedia with custom workout plans, tracking, and an AI fitness coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
